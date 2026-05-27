@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Geologica:wght,CRSV@100..900,0&display=swap');
+h1 {
+    text-align: center;
+    padding: 20px 0px 55px 0px;
+    font-size: 30PX;
+    font-weight: bold;
+}
+h2{
+    font-weight: bold;
+    font-size: 20px;
+}
+h3{
+    font-weight: bold;
+}
+nav a {
+    text-decoration: none;
+    color: rgb(29, 29, 177);
+    padding-right: 10px;
+}
+nav {
+  
+    background-color: rgb(229, 229, 238);
+    background-color: rgb(224, 224, 224);
+width: 100%;
+height: 30px;
+text-align:center;
+padding: 10px 0px;
+color: rgb(0, 51, 102);
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase; 
+}
+#boton {
+    color:white;
+    background-color: rgb(0, 51, 102)
+    margin-top 15px; /* Baja el boton*/
+}
+    
+footer {
+    color: white;
+    background-color: rgb(0, 51, 102);
+    text-align: center
+}
+
+body {
+    font-family: 'Roboto', sans-serif; 
+}
+
+main {
+    background-color: white;
+    max-width: 800px;
+    margin: 50px auto;
+    margin: 50px auto;
+    padding: 40px 0px 30px 40px;
+
+}
+body {
+    background-color: rgb(224, 223, 233, 0.836);
+}
+.letra {
+  font-family: "Geologica", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style:normal
+  font-variation-settings
+    "slnt" 0,
+    "CRSV" 0,
+    "SHRP" 0;
+}
+ul {
+    list-style-type: circle;
+
+}
+
+
+
+footer{
+    background-color: #003366; /* Color azul */
+    color: white;              /* Letras blancas */
+    text-align: center;        /* Centrar texto */
+    padding: 15px;             /* Espacio interno */
+    width: 100%;               /* Ocupar todo el ancho */
+    position: fixed;           /* Mantener abajo */
+    bottom: 0;
+    left: 0;
+}
